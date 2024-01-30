@@ -1,5 +1,5 @@
 # Online-Sweet-Mart
-
+ 
 This is an backend application in which me my team of 3 members have created restful API to mimic the working of online sweet shop. We have used spring security to authenticate and authorise customer and admin access to the application. For the frotend part we have used HTML, CSS and JS.
 
 
